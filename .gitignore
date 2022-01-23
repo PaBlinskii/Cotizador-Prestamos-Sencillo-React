@@ -21,3 +21,7 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+
+# Ignora los Package JSON
+package-lock.json 
+package.json 
